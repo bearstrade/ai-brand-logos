@@ -1,0 +1,20 @@
+{
+  "$schema-note": "Общий каталог пресетов-подключений для всех наших проектов (решение владельца 21.11.2026). Канон: preset только ПРЕДЗАПОЛНЯЕТ поля (name/base_url и т.д.), всё редактируемо; key_required=false значит, что каталог моделей публично читается без ключа. base_url — в формате 'прокси добавляет /v1/chat/completions к базе': базы, оканчивающиеся на /vN (v1..v9), считаются версионируемыми и хвост идёт напрямую. Данные сверены с документацией провайдеров и живыми curl-пробами (21.11, myapi-029).",
+  "version": 1,
+  "presets": [
+    {"id": "custom",          "name": null,  "base_url": null, "key_required": true,  "docs_url": null, "key_url": null, "notes": null},
+    {"id": "openrouter",      "name": "OpenRouter",  "base_url": "https://openrouter.ai/api/v1",  "key_required": false, "docs_url": "https://openrouter.ai/docs", "key_url": "https://openrouter.ai/settings/keys", "notes": "400+ models behind one key; public catalog"},
+    {"id": "openrouter_free", "name": "OpenRouter-free", "base_url": "https://openrouter.ai/api/v1", "key_required": false, "docs_url": "https://openrouter.ai/docs/features/models-and-pricing", "key_url": "https://openrouter.ai/settings/keys", "notes": "free = price 0/0 filter; up to 1000 req/day at $10+ balance", "free_filter": true},
+    {"id": "openai",          "name": "OpenAI",      "base_url": "https://api.openai.com/v1",    "key_required": true,  "docs_url": "https://platform.openai.com/docs", "key_url": "https://platform.openai.com/api-keys", "notes": "reference GPT API"},
+    {"id": "zai",             "name": "Z.ai (GLM)", "base_url": "https://api.z.ai/api/v1",       "key_required": true,  "docs_url": "https://docs.z.ai", "key_url": "https://z.ai/manage-apikey/apikey-list", "notes": "standard plan key"},
+    {"id": "zai_coding",      "name": "Z.ai Coding Plan (GLM)", "base_url": "https://api.z.ai/api/coding/paas/v4", "key_required": true, "docs_url": "https://docs.z.ai/devpack/quick-start", "key_url": "https://z.ai/manage-apikey/apikey-list", "notes": "separate coding-plan key; OpenAI chat protocol"},
+    {"id": "groq",            "name": "Groq",        "base_url": "https://api.groq.com/openai/v1", "key_required": true, "docs_url": "https://console.groq.com/docs", "key_url": "https://console.groq.com/keys", "notes": "LPU-fast; free tier"},
+    {"id": "deepseek",        "name": "DeepSeek",    "base_url": "https://api.deepseek.com/v1",  "key_required": true,  "docs_url": "https://api-docs.deepseek.com", "key_url": "https://platform.deepseek.com", "notes": "deepseek-chat / deepseek-reasoner"},
+    {"id": "mistral",         "name": "Mistral",     "base_url": "https://api.mistral.ai/v1",    "key_required": true,  "docs_url": "https://docs.mistral.ai", "key_url": "https://console.mistral.ai", "notes": "open weights + premier"},
+    {"id": "together",        "name": "Together",    "base_url": "https://api.together.ai/v1",   "key_required": true,  "docs_url": "https://docs.together.ai", "key_url": "https://api.together.ai/settings/projects/~current/api-keys", "notes": "open-weight models"},
+    {"id": "xai",             "name": "xAI (Grok)",  "base_url": "https://api.x.ai/v1",          "key_required": true,  "docs_url": "https://docs.x.ai", "key_url": "https://console.x.ai", "notes": "Grok family"},
+    {"id": "fireworks",       "name": "Fireworks",   "base_url": "https://api.fireworks.ai/inference/v1", "key_required": true, "docs_url": "https://docs.fireworks.ai", "key_url": "https://fireworks.ai/account/api-keys", "notes": "fast open-model inference"},
+    {"id": "cerebras",        "name": "Cerebras",    "base_url": "https://api.cerebras.ai/v1",   "key_required": true,  "docs_url": "https://inference-docs.cerebras.ai", "key_url": "https://cloud.cerebras.ai", "notes": "wafer-scale speed"},
+    {"id": "sambanova",       "name": "SambaNova",   "base_url": "https://api.sambanova.ai/v1",  "key_required": false, "docs_url": "https://docs.sambanova.ai", "key_url": "https://cloud.sambanova.ai", "notes": "public model catalog"}
+  ]
+}
