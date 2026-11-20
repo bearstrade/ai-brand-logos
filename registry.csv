@@ -1,0 +1,30 @@
+brand,file,theme,source_url,source_type,notes,sha256
+cerebras,brands/cerebras/dark.svg,dark,https://upload.wikimedia.org/wikipedia/commons/1/1a/Cerebras_Systems_logo.svg,mirror,,d25a07cbaa56d6de
+cerebras,brands/cerebras/light.svg,light,https://upload.wikimedia.org/wikipedia/commons/1/1a/Cerebras_Systems_logo.svg,mirror,,a90729e856664ea7
+deepseek,brands/deepseek/dark.svg,dark,https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg,mirror,brand blue #4D6BFE; dark=derived white recolor,a6aebb24570cdbfb
+deepseek,brands/deepseek/light.svg,light,https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg,mirror,brand blue #4D6BFE; dark=derived white recolor,5afe2e9fb26acff7
+fireworks,brands/fireworks/color.svg,color,https://docs.fireworks.ai/tools-sdks/brand,official,brand-v2 White/Ember lockup; style inlined,d88cab178a47518c
+fireworks,brands/fireworks/dark.svg,dark,https://docs.fireworks.ai/tools-sdks/brand,official,brand-v2 White/Ember lockup; style inlined,66348d81b32e4b2d
+fireworks,brands/fireworks/light.svg,light,https://docs.fireworks.ai/tools-sdks/brand,official,brand-v2 White/Ember lockup; style inlined,ec512f8ae7839887
+groq,brands/groq/color.svg,color,https://groq.com/favicon.svg,official,dark/light wordmark mirror + color favicon official,62f86752be058119
+groq,brands/groq/dark.svg,dark,https://groq.com/favicon.svg,official,dark/light wordmark mirror + color favicon official,d08092ef96d3f31d
+groq,brands/groq/light.svg,light,https://groq.com/favicon.svg,official,dark/light wordmark mirror + color favicon official,74f7e2bda4fe299c
+mistral,brands/mistral/color.svg,color,https://cdn.simpleicons.org/mistralai,library,dark/light from Simple Icons; color=official gradient favicon,66ceaf186f2075da
+mistral,brands/mistral/dark.svg,dark,https://cdn.simpleicons.org/mistralai,library,dark/light from Simple Icons; color=official gradient favicon,34bbc1baa55481b1
+mistral,brands/mistral/light.svg,light,https://cdn.simpleicons.org/mistralai,library,dark/light from Simple Icons; color=official gradient favicon,48f78c333a5b929f
+openai,brands/openai/dark.svg,dark,https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg,mirror,,518a0c48b246f5b1
+openai,brands/openai/light.svg,light,https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg,mirror,,95661147ca500b3b
+openrouter,brands/openrouter/dark.svg,dark,https://openrouter.ai/brand,official,glyph-volt (#C8FF00) / glyph-grape (#7624F4) official pair; light=grape,0d22462e4f2835a5
+openrouter,brands/openrouter/light.svg,light,https://openrouter.ai/brand,official,glyph-volt (#C8FF00) / glyph-grape (#7624F4) official pair; light=grape,5b49593d44e6aa41
+openrouter_free,brands/openrouter_free/dark.svg,dark,https://openrouter.ai/brand,official,copy of openrouter files,0d22462e4f2835a5
+openrouter_free,brands/openrouter_free/light.svg,light,https://openrouter.ai/brand,official,copy of openrouter files,5b49593d44e6aa41
+sambanova,brands/sambanova/color.png,color,https://www.sambanova.ai/,official,PNG only upstream; white 404 -> derived recolor,2621eabab0945bc7
+sambanova,brands/sambanova/dark.png,dark,https://www.sambanova.ai/,official,PNG only upstream; white 404 -> derived recolor,a73d5f400733cd01
+sambanova,brands/sambanova/light.png,light,https://www.sambanova.ai/,official,PNG only upstream; white 404 -> derived recolor,7540e23bf5b816c2
+together,brands/together/color.png,color,https://www.together.ai/,official,,0665764252f8d60c
+xai,brands/xai/dark.svg,dark,https://upload.wikimedia.org/wikipedia/commons/7/7e/X.AI_logo.svg,mirror,,73fb38e4d42804f9
+xai,brands/xai/light.svg,light,https://upload.wikimedia.org/wikipedia/commons/7/7e/X.AI_logo.svg,mirror,,3848d8b3cc1aa887
+zai,brands/zai/dark.svg,dark,https://z-cdn.chatglm.cn/z-ai/static/logo.svg,official,tile self-sufficient; style-classes inlined for sanitizer; light=derived recolor,c7db1a65c2690666
+zai,brands/zai/light.svg,light,https://z-cdn.chatglm.cn/z-ai/static/logo.svg,official,tile self-sufficient; style-classes inlined for sanitizer; light=derived recolor,e138ca94fc59e5bc
+zai_coding,brands/zai_coding/dark.svg,dark,https://z-cdn.chatglm.cn/z-ai/static/logo.svg,official,copy of zai files,c7db1a65c2690666
+zai_coding,brands/zai_coding/light.svg,light,https://z-cdn.chatglm.cn/z-ai/static/logo.svg,official,copy of zai files,e138ca94fc59e5bc
