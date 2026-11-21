@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source: uHive.ai landing nav mark (hive/hive/static/landing/index.html
+     line ~393) — the canonical double-honeycomb: outer hexagon outline +
+     inner small hexagon + center dot, brand green #2ee6a8. Owner verdict
+     21.11 (late): "6-гранная сота, в середине чуть выше ещё одна
+     маленькая" — replaced the flat "hive cube" mark; enlarged. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 26" fill="none" role="img" aria-label="uHive">
+  <path d="M12 1.5 21.5 7v12L12 24.5 2.5 19V7L12 1.5Z" stroke="#2ee6a8" stroke-width="1.6"/>
+  <path d="M12 7 16.8 9.9v5.8L12 18.6l-4.8-2.9V9.9L12 7Z" fill="#2ee6a8" fill-opacity=".18" stroke="#2ee6a8" stroke-width="1.2"/>
+  <circle cx="12" cy="12.8" r="1.6" fill="#2ee6a8"/>
+</svg>
