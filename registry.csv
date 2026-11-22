@@ -3,20 +3,25 @@ anthropic,brands/anthropic/dark.svg,dark,https://cdn.simpleicons.org/anthropic,l
 anthropic,brands/anthropic/light.svg,light,https://cdn.simpleicons.org/anthropic,library,Simple Icons; docs https://docs.cohere.com — уточнить у GoldenKey,8a7cb43e550290ad,https://docs.anthropic.com
 cerebras,brands/cerebras/dark.svg,dark,https://inference-docs.cerebras.ai,see myapi-030 registry history,,d25a07cbaa56d6de,https://inference-docs.cerebras.ai
 cerebras,brands/cerebras/light.svg,light,https://inference-docs.cerebras.ai,see myapi-030 registry history,,a90729e856664ea7,https://inference-docs.cerebras.ai
-cohere,brands/cohere/dark.svg,dark,https://cohere.com/nav_icon.svg,derived,"nav_icon mark; dark=derived recolor #222222->#FFFFFF (must read on dark bg; FlowLite 628)",70e280872c10592b,https://docs.cohere.com
+cohere,brands/cohere/dark.svg,dark,https://cohere.com/nav_icon.svg,derived,nav_icon mark; dark=derived recolor #222222->#FFFFFF (must read on dark bg; FlowLite 628),70e280872c10592b,https://docs.cohere.com
 cohere,brands/cohere/light.svg,light,https://cohere.com/nav_icon.svg,official,nav_icon mark; light=derived recolor white->#111,2fb990bb1ad62e72,https://docs.cohere.com
+deepseek,brands/deepseek/color.svg,color,https://cdn.simpleicons.org/deepseek,derived,recolor of dark.svg whale to official brand blue #5786FE (Simple Icons); geometry unchanged,18b3de9c1ff83c69,https://api-docs.deepseek.com
 deepseek,brands/deepseek/dark.svg,dark,https://api-docs.deepseek.com,see myapi-030 registry history,,a6aebb24570cdbfb,https://api-docs.deepseek.com
 deepseek,brands/deepseek/light.svg,light,https://api-docs.deepseek.com,see myapi-030 registry history,,5afe2e9fb26acff7,https://api-docs.deepseek.com
 fireworks,brands/fireworks/color.svg,color,https://docs.fireworks.ai,see myapi-030 registry history,,d88cab178a47518c,https://docs.fireworks.ai
 fireworks,brands/fireworks/dark.svg,dark,https://docs.fireworks.ai,see myapi-030 registry history,,66348d81b32e4b2d,https://docs.fireworks.ai
 fireworks,brands/fireworks/light.svg,light,https://docs.fireworks.ai,see myapi-030 registry history,,ec512f8ae7839887,https://docs.fireworks.ai
+google-gemini,brands/google-gemini/color.svg,color,https://cdn.simpleicons.org/googlegemini,derived,"official sparkle glyph + widely-documented Gemini gradient (#4285F4->#9B72CB->#D96570, stops not officially published); geometry unchanged",382d4559ee800ad3,https://aistudio.google.com/docs
 google-gemini,brands/google-gemini/dark.svg,dark,https://cdn.simpleicons.org/googlegemini,library,Simple Icons (Gemini),93be510309e7045d,https://aistudio.google.com/docs
 google-gemini,brands/google-gemini/light.svg,light,https://cdn.simpleicons.org/googlegemini,library,Simple Icons (Gemini),d3a5b5fdbfbe08cd,https://aistudio.google.com/docs
 groq,brands/groq/color.svg,color,https://console.groq.com/docs,see myapi-030 registry history,,62f86752be058119,https://console.groq.com/docs
 groq,brands/groq/dark.svg,dark,https://console.groq.com/docs,see myapi-030 registry history,,d08092ef96d3f31d,https://console.groq.com/docs
 groq,brands/groq/light.svg,light,https://console.groq.com/docs,see myapi-030 registry history,,74f7e2bda4fe299c,https://console.groq.com/docs
+huggingface,brands/huggingface/color.svg,color,https://cdn.simpleicons.org/huggingface,derived,recolor of dark.svg face to official yellow #FFD21E (Simple Icons); geometry unchanged,4e59ad63f9610655,https://huggingface.co/docs
 huggingface,brands/huggingface/dark.svg,dark,https://cdn.simpleicons.org/huggingface,library,Simple Icons,61ed41824e6a1321,https://huggingface.co/docs
 huggingface,brands/huggingface/light.svg,light,https://cdn.simpleicons.org/huggingface,library,Simple Icons,0ae2dfb899f57c5f,https://huggingface.co/docs
+lmstudio,brands/lmstudio/dark.svg,dark,https://cdn.simpleicons.org/lmstudio,library,Simple Icons (myapi-032); docs https://lmstudio.ai/docs/app/api/endpoint/openai,3ffb0270c9d792e4,https://lmstudio.ai/docs/app/api/endpoint/openai
+lmstudio,brands/lmstudio/light.svg,light,https://cdn.simpleicons.org/lmstudio,derived,Simple Icons (myapi-032); light перекраской fill #000000 — геометрия та же,eecff682bf364af7,https://lmstudio.ai/docs/app/api/endpoint/openai
 mistral,brands/mistral/color.svg,color,https://docs.mistral.ai,see myapi-030 registry history,,66ceaf186f2075da,https://docs.mistral.ai
 mistral,brands/mistral/dark.svg,dark,https://docs.mistral.ai,see myapi-030 registry history,,34bbc1baa55481b1,https://docs.mistral.ai
 mistral,brands/mistral/light.svg,light,https://docs.mistral.ai,see myapi-030 registry history,,48f78c333a5b929f,https://docs.mistral.ai
@@ -28,6 +33,7 @@ openrouter,brands/openrouter/dark.svg,dark,https://openrouter.ai/docs,see myapi-
 openrouter,brands/openrouter/light.svg,light,https://openrouter.ai/docs,see myapi-030 registry history,,5b49593d44e6aa41,https://openrouter.ai/docs
 openrouter_free,brands/openrouter_free/dark.svg,dark,https://openrouter.ai/docs/features/models-and-pricing,see myapi-030 registry history,,0d22462e4f2835a5,https://openrouter.ai/docs/features/models-and-pricing
 openrouter_free,brands/openrouter_free/light.svg,light,https://openrouter.ai/docs/features/models-and-pricing,see myapi-030 registry history,,5b49593d44e6aa41,https://openrouter.ai/docs/features/models-and-pricing
+perplexity,brands/perplexity/color.svg,color,https://cdn.simpleicons.org/perplexity,derived,recolor of dark.svg glyph to official teal #1FB8CD (Simple Icons); geometry unchanged,7ec577500ef96bac,https://docs.perplexity.ai
 perplexity,brands/perplexity/dark.svg,dark,https://cdn.simpleicons.org/perplexity,library,Simple Icons,eadf9ea248519de6,https://docs.perplexity.ai
 perplexity,brands/perplexity/light.svg,light,https://cdn.simpleicons.org/perplexity,library,Simple Icons,0b382c8eec68741e,https://docs.perplexity.ai
 replicate,brands/replicate/dark.svg,dark,https://cdn.simpleicons.org/replicate,library,Simple Icons,5905f56a76287b2c,https://replicate.com/docs
@@ -38,16 +44,14 @@ sambanova,brands/sambanova/light.png,light,https://docs.sambanova.ai,see myapi-0
 together,brands/together/color.png,color,https://docs.together.ai,see myapi-030 registry history,,0665764252f8d60c,https://docs.together.ai
 together,brands/together/color.svg,color,https://docs.together.ai,see myapi-030 registry history,,8c79dd021b7618bd,https://docs.together.ai
 together,brands/together/dark.svg,dark,https://docs.together.ai,see myapi-030 registry history,,a8bcede4404552d7,https://docs.together.ai
+uhive,brands/uhive/color.svg,color,local: hive landing nav mark (owner 21.11),official,canonical double-honeycomb #2ee6a8; all three variants identical color mark,133d562c7499f3ab,https://uhive.ai
 uhive,brands/uhive/dark.svg,dark,local: hive landing nav mark (owner 21.11),official,canonical double-honeycomb #2ee6a8; all three variants identical color mark,133d562c7499f3ab,https://uhive.ai
 uhive,brands/uhive/light.svg,light,local: hive landing nav mark (owner 21.11),official,canonical double-honeycomb #2ee6a8; all three variants identical color mark,133d562c7499f3ab,https://uhive.ai
-uhive,brands/uhive/color.svg,color,local: hive landing nav mark (owner 21.11),official,canonical double-honeycomb #2ee6a8; all three variants identical color mark,133d562c7499f3ab,https://uhive.ai
+vllm,brands/vllm/dark.svg,dark,https://cdn.simpleicons.org/vllm,library,Simple Icons (myapi-032); docs https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html,c61e661b2fab43c5,https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html
+vllm,brands/vllm/light.svg,light,https://cdn.simpleicons.org/vllm,derived,Simple Icons (myapi-032); light перекраской fill #000000 — геометрия та же,86b145637af14c56,https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html
 xai,brands/xai/dark.svg,dark,https://docs.x.ai,see myapi-030 registry history,,73fb38e4d42804f9,https://docs.x.ai
 xai,brands/xai/light.svg,light,https://docs.x.ai,see myapi-030 registry history,,3848d8b3cc1aa887,https://docs.x.ai
 zai,brands/zai/dark.svg,dark,https://docs.z.ai,see myapi-030 registry history,,c7db1a65c2690666,https://docs.z.ai
 zai,brands/zai/light.svg,light,https://docs.z.ai,see myapi-030 registry history,,e138ca94fc59e5bc,https://docs.z.ai
 zai_coding,brands/zai_coding/dark.svg,dark,https://docs.z.ai/devpack/quick-start,see myapi-030 registry history,,c7db1a65c2690666,https://docs.z.ai/devpack/quick-start
 zai_coding,brands/zai_coding/light.svg,light,https://docs.z.ai/devpack/quick-start,see myapi-030 registry history,,e138ca94fc59e5bc,https://docs.z.ai/devpack/quick-start
-deepseek,brands/deepseek/color.svg,color,https://cdn.simpleicons.org/deepseek,derived,"recolor of dark.svg whale to official brand blue #5786FE (Simple Icons); geometry unchanged",18b3de9c1ff83c69,https://api-docs.deepseek.com
-perplexity,brands/perplexity/color.svg,color,https://cdn.simpleicons.org/perplexity,derived,"recolor of dark.svg glyph to official teal #1FB8CD (Simple Icons); geometry unchanged",7ec577500ef96bac,https://docs.perplexity.ai
-huggingface,brands/huggingface/color.svg,color,https://cdn.simpleicons.org/huggingface,derived,"recolor of dark.svg face to official yellow #FFD21E (Simple Icons); geometry unchanged",4e59ad63f9610655,https://huggingface.co/docs
-google-gemini,brands/google-gemini/color.svg,color,https://cdn.simpleicons.org/googlegemini,derived,"official sparkle glyph + widely-documented Gemini gradient (#4285F4->#9B72CB->#D96570, stops not officially published); geometry unchanged",382d4559ee800ad3,https://aistudio.google.com/docs
