@@ -44,3 +44,7 @@ zai,brands/zai/dark.svg,dark,https://docs.z.ai,see myapi-030 registry history,,c
 zai,brands/zai/light.svg,light,https://docs.z.ai,see myapi-030 registry history,,e138ca94fc59e5bc,https://docs.z.ai
 zai_coding,brands/zai_coding/dark.svg,dark,https://docs.z.ai/devpack/quick-start,see myapi-030 registry history,,c7db1a65c2690666,https://docs.z.ai/devpack/quick-start
 zai_coding,brands/zai_coding/light.svg,light,https://docs.z.ai/devpack/quick-start,see myapi-030 registry history,,e138ca94fc59e5bc,https://docs.z.ai/devpack/quick-start
+lmstudio,brands/lmstudio/dark.svg,dark,https://cdn.simpleicons.org/lmstudio,library,Simple Icons (myapi-032); docs https://lmstudio.ai/docs/app/api/endpoint/openai,3ffb0270c9d792e4,https://lmstudio.ai/docs/app/api/endpoint/openai
+lmstudio,brands/lmstudio/light.svg,light,https://cdn.simpleicons.org/lmstudio,derived,Simple Icons (myapi-032); light перекраской fill #000000 — геометрия та же,eecff682bf364af7,https://lmstudio.ai/docs/app/api/endpoint/openai
+vllm,brands/vllm/dark.svg,dark,https://cdn.simpleicons.org/vllm,library,Simple Icons (myapi-032); docs https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html,c61e661b2fab43c5,https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html
+vllm,brands/vllm/light.svg,light,https://cdn.simpleicons.org/vllm,derived,Simple Icons (myapi-032); light перекраской fill #000000 — геометрия та же,86b145637af14c56,https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html
